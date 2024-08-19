@@ -230,9 +230,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2022102020009\\source\\repos\\tarefa11\\tarefa11\\tarefa11.csproj",
-      "projectName": "tarefa11",
-      "projectPath": "C:\\Users\\2022102020009\\source\\repos\\tarefa11\\tarefa11\\tarefa11.csproj",
+      "projectUniqueName": "C:\\Users\\2022102020009\\source\\repos\\tarefa11\\tarefa11\\ApiTarefas2.csproj",
+      "projectName": "ApiTarefas2",
+      "projectPath": "C:\\Users\\2022102020009\\source\\repos\\tarefa11\\tarefa11\\ApiTarefas2.csproj",
       "packagesPath": "C:\\Users\\2022102020009\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\2022102020009\\source\\repos\\tarefa11\\tarefa11\\obj\\",
       "projectStyle": "PackageReference",
