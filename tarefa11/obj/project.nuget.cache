@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xSZ9/J2I3CQp6EtsvPi3GXo3M+b987ggp46K+gNBjZUIla3FCdl+mxNVCDYbQ0FEBMEFmskIl0dszHamn6pQhw==",
+  "dgSpecHash": "v6I3XyyHvlDCg5+/SK1EeTWs5YvMDSp2UKp1b4QxlecvELsdbNJqdeHrlhbb5RnX4RVBN6zoHdcaGNC1lLbNMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\2022102020009\\source\\repos\\tarefa11\\tarefa11\\tarefa11.csproj",
+  "projectFilePath": "C:\\Users\\2022102020009\\source\\repos\\tarefa11\\tarefa11\\ApiTarefas2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2022102020009\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\2022102020009\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

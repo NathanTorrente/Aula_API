@@ -20,7 +20,6 @@ namespace tarefa11.Controllers
             return Ok("Hello world do João");
         }
       
-
         [HttpGet("Autor")]
         public IActionResult GetAutor() 
         {
